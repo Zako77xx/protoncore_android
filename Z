@@ -1,0 +1,1 @@
+implementation("me.proton.core:<name-of-the-lib>:<version>")
